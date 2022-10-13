@@ -1,0 +1,15 @@
+/Users/ugurcanyagmur/Projects/FibonacciAvarege/bin/Debug/net6.0/FibonacciAvarege
+/Users/ugurcanyagmur/Projects/FibonacciAvarege/bin/Debug/net6.0/FibonacciAvarege.deps.json
+/Users/ugurcanyagmur/Projects/FibonacciAvarege/bin/Debug/net6.0/FibonacciAvarege.runtimeconfig.json
+/Users/ugurcanyagmur/Projects/FibonacciAvarege/bin/Debug/net6.0/FibonacciAvarege.dll
+/Users/ugurcanyagmur/Projects/FibonacciAvarege/bin/Debug/net6.0/FibonacciAvarege.pdb
+/Users/ugurcanyagmur/Projects/FibonacciAvarege/obj/Debug/net6.0/FibonacciAvarege.csproj.AssemblyReference.cache
+/Users/ugurcanyagmur/Projects/FibonacciAvarege/obj/Debug/net6.0/FibonacciAvarege.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ugurcanyagmur/Projects/FibonacciAvarege/obj/Debug/net6.0/FibonacciAvarege.AssemblyInfoInputs.cache
+/Users/ugurcanyagmur/Projects/FibonacciAvarege/obj/Debug/net6.0/FibonacciAvarege.AssemblyInfo.cs
+/Users/ugurcanyagmur/Projects/FibonacciAvarege/obj/Debug/net6.0/FibonacciAvarege.csproj.CoreCompileInputs.cache
+/Users/ugurcanyagmur/Projects/FibonacciAvarege/obj/Debug/net6.0/FibonacciAvarege.dll
+/Users/ugurcanyagmur/Projects/FibonacciAvarege/obj/Debug/net6.0/refint/FibonacciAvarege.dll
+/Users/ugurcanyagmur/Projects/FibonacciAvarege/obj/Debug/net6.0/FibonacciAvarege.pdb
+/Users/ugurcanyagmur/Projects/FibonacciAvarege/obj/Debug/net6.0/FibonacciAvarege.genruntimeconfig.cache
+/Users/ugurcanyagmur/Projects/FibonacciAvarege/obj/Debug/net6.0/ref/FibonacciAvarege.dll
